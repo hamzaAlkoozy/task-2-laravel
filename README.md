@@ -1,6 +1,6 @@
 ## Configuration
-
-check `.env` file, you might want to change config
+I attached `.env.example` file, take the content and place it on `.env` file in your machine <br>
+<br>you might want to change some config
 <br>
 E.g: `DB_USERNAME` and `DB_PASSWORD`
 
